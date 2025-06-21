@@ -27,7 +27,7 @@ Script for Comparing two YouTube playlists and Outputting Missing Videos Links o
 - Copy your API key (DO NOT EXPOSE YOUR API KEY)
 
 ## Using the Script
-- Download the compare_playlists.js
+- Download the [compare_playlists.js](https://github.com/Kazi-Aidah/yt-playlist-comparator/blob/main/compare_playlists.js)
 - I like placing it inside a folder (Because after running the code, you'll have a text file with the missing links.)
 - Right Click on the compare_playlists.js and click on "Edit"
 - Paste the API Key you copied it into the script at,
