@@ -1,5 +1,5 @@
 # yt-playlist-comparator
-Compare two YouTube playlists and find missing videos, with results saved to a text file.
+Script for Comparing two YouTube playlists and Outputting Missing Videos Links onto a text file.
 
 
 # Prerequisites
